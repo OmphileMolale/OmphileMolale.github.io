@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+<img src="Scripture - Made with PosterMyWall.mp4" alt="Trulli" width="500" height="333">
 
 </body>
 </html>
